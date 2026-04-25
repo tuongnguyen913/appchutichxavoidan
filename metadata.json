@@ -1,0 +1,10 @@
+{
+  "name": "Chủ tịch Xã với Dân",
+  "description": "Cổng thông tin trực tuyến kết nối chính quyền xã và người dân. Hỗ trợ người dân gửi phản ánh, theo dõi kết quả, và nhận thông báo từ Ủy ban.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
